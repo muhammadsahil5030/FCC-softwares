@@ -12,7 +12,7 @@ source /cvmfs/fcc.cern.ch/sw/latest/setup.sh
 source /cvmfs/sw.hsf.org/key4hep/setup.sh
 ```
 Get clone the ```FCCAnalysis.git``` from the github
-````
+```
 git clone main https://github.com/HEP-FCC/FCCAnalyses.git
 cd FCCAnalysis
 ```
